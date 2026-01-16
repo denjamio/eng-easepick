@@ -1,4 +1,4 @@
-import { Core } from '@easepick/core';
+import { Core } from '@eng-easepick/core';
 import { IBaseConfig, IPlugin, IEventDetail } from './interface';
 
 export class BasePlugin {

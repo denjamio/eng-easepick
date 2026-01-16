@@ -1,14 +1,14 @@
-# @easepick/amp-plugin
+# @eng-easepick/amp-plugin
 
-[![npm version](https://badge.fury.io/js/@easepick%2Famp-plugin.svg)](https://www.npmjs.com/package/@easepick/amp-plugin)
+[![npm version](https://badge.fury.io/js/@easepick%2Famp-plugin.svg)](https://www.npmjs.com/package/@eng-easepick/amp-plugin)
 
-> This package does not need to be installed if you are using [@easepick/bundle](https://easepick.com/packages/bundle).
+> This package does not need to be installed if you are using [@eng-easepick/bundle](https://www.npmjs.com/package/@eng-easepick/bundle).
 
 Adds extra options.
 
 ## Documentation
 
-[https://easepick.com/packages/amp-plugin](https://easepick.com/packages/amp-plugin)
+[https://www.npmjs.com/package/@eng-easepick/amp-plugin](https://www.npmjs.com/package/@eng-easepick/amp-plugin)
 
 
 ## Options:

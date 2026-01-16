@@ -1,14 +1,14 @@
-# @easepick/core
+# @eng-easepick/core
 
-[![npm version](https://badge.fury.io/js/@easepick%2Fcore.svg)](https://www.npmjs.com/package/@easepick/core)
+[![npm version](https://badge.fury.io/js/@easepick%2Fcore.svg)](https://www.npmjs.com/package/@eng-easepick/core)
 
-> This package does not need to be installed if you are using [@easepick/bundle](https://easepick.com/packages/bundle).
+> This package does not need to be installed if you are using [@eng-easepick/bundle](https://www.npmjs.com/package/@eng-easepick/bundle).
 
 Main package of easepick.
 
 ## Documentation
 
-[https://easepick.com/packages/core](https://easepick.com/packages/core)
+[https://www.npmjs.com/package/@eng-easepick/core](https://www.npmjs.com/package/@eng-easepick/core)
 
 ## Options
 
@@ -20,7 +20,7 @@ Main package of easepick.
 | firstDay | number | 1 | Day of start week. (0 - Sunday, 1 - Monday, 2 - Tuesday, etc…)
 | lang | string | en-US | Language. <br/>This option affect to day names, month names via [Date.prototype.toLocaleString()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleString) and also affect to plural rules via [Intl.PluralRules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/PluralRules).
 | date | Date <br/> string <br/> number | null | Preselect date. <br/> Date Object or Unix Timestamp (with milliseconds) or String (must be equal to option format).
-| format | string | YYYY-MM-DD | The default output format. <br/> See [tokens format](https://easepick.com/packages/datetime#tokens-format).
+| format | string | YYYY-MM-DD | The default output format. <br/> See [tokens format](https://www.npmjs.com/package/@eng-easepick/datetime#tokens-format).
 | grid | number | 1 | Number of calendar columns.
 | calendars | number | 1 | Number of visible months.
 | readonly | boolean | true | Add `readonly` attribute to `element`.
@@ -58,7 +58,7 @@ Main package of easepick.
 const picker = new easepick.create({
   element: document.getElementById('datepicker'),
   css: [
-    'https://cdn.jsdelivr.net/npm/@easepick/core@[version.number]/dist/index.css',
+    'https://cdn.jsdelivr.net/npm/@eng-easepick/core@[version.number]/dist/index.css',
   ],
 });
 // 
@@ -83,7 +83,7 @@ It is also allowed to use default events such as `click`, `keydown`, etc.
 const picker = new easepick.create({
   element: document.getElementById('datepicker'),
   css: [
-    'https://cdn.jsdelivr.net/npm/@easepick/core@[version.number]/dist/index.css',
+    'https://cdn.jsdelivr.net/npm/@eng-easepick/core@[version.number]/dist/index.css',
   ],
   setup(picker) {
     picker.on('view', (e) => {
@@ -115,7 +115,7 @@ const picker = new easepick.create({
 const picker = new easepick.create({
   element: document.getElementById('datepicker'),
   css: [
-    'https://cdn.jsdelivr.net/npm/@easepick/core@[version.number]/dist/index.css',
+    'https://cdn.jsdelivr.net/npm/@eng-easepick/core@[version.number]/dist/index.css',
   ],
 });
 

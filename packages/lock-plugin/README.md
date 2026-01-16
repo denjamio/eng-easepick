@@ -1,15 +1,15 @@
-# @easepick/lock-plugin
+# @eng-easepick/lock-plugin
 
-[![npm version](https://badge.fury.io/js/@easepick%2Flock-plugin.svg)](https://www.npmjs.com/package/@easepick/lock-plugin)
+[![npm version](https://badge.fury.io/js/@easepick%2Flock-plugin.svg)](https://www.npmjs.com/package/@eng-easepick/lock-plugin)
 
-> This package does not need to be installed if you are using [@easepick/bundle](https://easepick.com/packages/bundle).
+> This package does not need to be installed if you are using [@eng-easepick/bundle](https://www.npmjs.com/package/@eng-easepick/bundle).
 
 Adds the ability to disable days for selection.
 
 
 ## Documentation
 
-[https://easepick.com/packages/lock-plugin](https://easepick.com/packages/lock-plugin)
+[https://www.npmjs.com/package/@eng-easepick/lock-plugin](https://www.npmjs.com/package/@eng-easepick/lock-plugin)
 
 
 ## Options

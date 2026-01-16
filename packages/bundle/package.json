@@ -1,34 +1,31 @@
 {
-  "name": "@easepick/bundle",
+  "name": "@eng-easepick/bundle",
   "description": "easepick bundle.",
-  "version": "1.2.1",
+  "version": "2.0.0",
   "main": "dist/index.umd.js",
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
   "dependencies": {
-    "@easepick/core": "^1.1.0",
-    "@easepick/datetime": "^1.1.0",
-    "@easepick/base-plugin": "^1.1.0",
-    "@easepick/kbd-plugin": "^1.1.0",
-    "@easepick/lock-plugin": "^1.1.0",
-    "@easepick/preset-plugin": "^1.1.0",
-    "@easepick/range-plugin": "^1.1.0",
-    "@easepick/time-plugin": "^1.1.0",
-    "@easepick/amp-plugin": "^1.1.0"
+    "@eng-easepick/core": "^2.0.0",
+    "@eng-easepick/datetime": "^2.0.0",
+    "@eng-easepick/base-plugin": "^2.0.0",
+    "@eng-easepick/kbd-plugin": "^2.0.0",
+    "@eng-easepick/lock-plugin": "^2.0.0",
+    "@eng-easepick/preset-plugin": "^2.0.0",
+    "@eng-easepick/range-plugin": "^2.0.0",
+    "@eng-easepick/time-plugin": "^2.0.0",
+    "@eng-easepick/amp-plugin": "^2.0.0"
   },
-  "author": {
-    "name": "Rinat G.",
-    "email": "easepick@jsx4.com"
-  },
-  "license": "GPL-2.0-or-later",
+  "author": "Rinat G. (forked by denjamio)",
+  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/easepick/easepick.git",
+    "url": "https://github.com/denjamio/eng-easepick.git",
     "directory": "packages/bundle"
   },
-  "homepage": "https://easepick.com",
+  "homepage": "https://github.com/denjamio/eng-easepick",
   "bugs": {
-    "url": "https://github.com/easepick/easepick/issues"
+    "url": "https://github.com/denjamio/eng-easepick/issues"
   },
   "files": [
     "dist"

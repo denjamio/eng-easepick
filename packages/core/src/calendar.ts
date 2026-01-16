@@ -1,5 +1,5 @@
 import { Core } from './core';
-import { DateTime } from '@easepick/datetime';
+import { DateTime } from '@eng-easepick/datetime';
 
 export default class Calendar {
   public picker: Core;

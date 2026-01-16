@@ -1,7 +1,11 @@
 {
-  "name": "easepick",
-  "version": "1.2.1",
+  "name": "eng-easepick",
+  "version": "2.0.0",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/denjamio/eng-easepick.git"
+  },
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^13.0.4",
     "@rollup/plugin-typescript": "^8.2.5",
@@ -33,9 +37,6 @@
   "workspaces": [
     "packages/*"
   ],
-  "author": {
-    "name": "Rinat G.",
-    "email": "easepick@jsx4.com"
-  },
-  "license": "GPL-2.0-or-later"
+  "author": "Rinat G. (forked by denjamio)",
+  "license": "MIT"
 }

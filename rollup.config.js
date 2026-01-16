@@ -24,7 +24,7 @@ const output = (name) => {
 * @license
 * Package: ${pkg.name}
 * Version: ${pkg.version}
-* https://easepick.com/
+* https://github.com/denjamio/eng-easepick#
 * Copyright ${(new Date()).getFullYear()} Rinat G.
 * 
 * Licensed under the terms of GNU General Public License Version 2 or later. (http://www.gnu.org/licenses/gpl.html)
@@ -92,7 +92,7 @@ export default [
   getPackageConfig('kbd-plugin'),
   getPackageConfig('amp-plugin'),
 
-  // @easepick/bundle
+  // @eng-easepick/bundle
   {
     input: 'packages/bundle/src/index.ts',
     output: output('bundle'),
@@ -103,7 +103,7 @@ export default [
         }
       }),
       resolve({
-        dedupe: ['@easepick/base-plugin'],
+        dedupe: ['@eng-easepick/base-plugin'],
         resolveOnly: [/^@easepick\/.*$/]
       }),
       typescript({

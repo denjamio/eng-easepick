@@ -1,5 +1,5 @@
-import { DateTime } from '@easepick/datetime';
-import { IBaseConfig } from '@easepick/base-plugin';
+import { DateTime } from '@eng-easepick/datetime';
+import { IBaseConfig } from '@eng-easepick/base-plugin';
 
 export interface ILockConfig extends IBaseConfig {
 
@@ -14,7 +14,7 @@ export interface ILockConfig extends IBaseConfig {
   filter?: (date: DateTime | DateTime[], picked: DateTime[]) => boolean;
 }
 
-declare module '@easepick/core/dist/types' {
+declare module '@eng-easepick/core/dist/types' {
   interface IPickerConfig {
     LockPlugin?: ILockConfig;
   }

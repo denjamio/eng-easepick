@@ -1,15 +1,15 @@
-# @easepick/time-plugin
+# @eng-easepick/time-plugin
 
-[![npm version](https://badge.fury.io/js/@easepick%2Ftime-plugin.svg)](https://www.npmjs.com/package/@easepick/time-plugin)
+[![npm version](https://badge.fury.io/js/@easepick%2Ftime-plugin.svg)](https://www.npmjs.com/package/@eng-easepick/time-plugin)
 
-> This package does not need to be installed if you are using [@easepick/bundle](https://easepick.com/packages/bundle).
+> This package does not need to be installed if you are using [@eng-easepick/bundle](https://www.npmjs.com/package/@eng-easepick/bundle).
 
 Adds time picker.
 
 
 ## Documentation
 
-[https://easepick.com/packages/time-plugin](https://easepick.com/packages/time-plugin)
+[https://www.npmjs.com/package/@eng-easepick/time-plugin](https://www.npmjs.com/package/@eng-easepick/time-plugin)
 
 
 ## Options

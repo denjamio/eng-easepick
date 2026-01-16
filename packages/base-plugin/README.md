@@ -1,10 +1,10 @@
-# @easepick/base-plugin
+# @eng-easepick/base-plugin
 
-[![npm version](https://badge.fury.io/js/@easepick%2Fbase-plugin.svg)](https://www.npmjs.com/package/@easepick/base-plugin)
+[![npm version](https://badge.fury.io/js/@easepick%2Fbase-plugin.svg)](https://www.npmjs.com/package/@eng-easepick/base-plugin)
 
-> This package does not need to be installed if you are using [@easepick/bundle](https://easepick.com/packages/bundle).
+> This package does not need to be installed if you are using [@eng-easepick/bundle](https://www.npmjs.com/package/@eng-easepick/bundle).
 
 
 ## Documentation
 
-[https://easepick.com/packages/base-plugin](https://easepick.com/packages/base-plugin)
+[https://www.npmjs.com/package/@eng-easepick/base-plugin](https://www.npmjs.com/package/@eng-easepick/base-plugin)

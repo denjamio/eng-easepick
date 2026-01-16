@@ -1,15 +1,15 @@
-# @easepick/preset-plugin
+# @eng-easepick/preset-plugin
 
-[![npm version](https://badge.fury.io/js/@easepick%2Fpreset-plugin.svg)](https://www.npmjs.com/package/@easepick/preset-plugin)
+[![npm version](https://badge.fury.io/js/@easepick%2Fpreset-plugin.svg)](https://www.npmjs.com/package/@eng-easepick/preset-plugin)
 
-> This package does not need to be installed if you are using [@easepick/bundle](https://easepick.com/packages/bundle).
+> This package does not need to be installed if you are using [@eng-easepick/bundle](https://www.npmjs.com/package/@eng-easepick/bundle).
 
 Adds predefined ranges.
 
 
 ## Documentation
 
-[https://easepick.com/packages/preset-plugin](https://easepick.com/packages/preset-plugin)
+[https://www.npmjs.com/package/@eng-easepick/preset-plugin](https://www.npmjs.com/package/@eng-easepick/preset-plugin)
 
 
 ## Options

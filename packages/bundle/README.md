@@ -1,15 +1,15 @@
-# @easepick/bundle
+# @eng-easepick/bundle
 
-[![npm version](https://badge.fury.io/js/@easepick%2Fbundle.svg)](https://www.npmjs.com/package/@easepick/bundle).
+[![npm version](https://badge.fury.io/js/@easepick%2Fbundle.svg)](https://www.npmjs.com/package/@eng-easepick/bundle).
 
 Bundle of easepick.
 Includes all packages.
 
 ## Documentation
 
-[https://easepick.com/packages/bundle](https://easepick.com/packages/bundle)
+[https://www.npmjs.com/package/@eng-easepick/bundle](https://www.npmjs.com/package/@eng-easepick/bundle)
 
 
 ## Options
 
-See options in [@easepick/core](https://easepick.com/packages/core) and other [packages](https://easepick.com/packages).
+See options in [@eng-easepick/core](https://www.npmjs.com/package/@eng-easepick/core) and other [packages](https://github.com/denjamio/eng-easepickpackages).

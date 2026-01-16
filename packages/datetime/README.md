@@ -1,15 +1,15 @@
-# @easepick/datetime
+# @eng-easepick/datetime
 
-[![npm version](https://badge.fury.io/js/@easepick%2Fdatetime.svg)](https://www.npmjs.com/package/@easepick/datetime)
+[![npm version](https://badge.fury.io/js/@easepick%2Fdatetime.svg)](https://www.npmjs.com/package/@eng-easepick/datetime)
 
-> This package does not need to be installed if you are using [@easepick/bundle](https://easepick.com/packages/bundle).
+> This package does not need to be installed if you are using [@eng-easepick/bundle](https://www.npmjs.com/package/@eng-easepick/bundle).
 
 DateTime library for `easepick`.
 
 
 ## Documentation
 
-[https://easepick.com/packages/datetime](https://easepick.com/packages/datetime)
+[https://www.npmjs.com/package/@eng-easepick/datetime](https://www.npmjs.com/package/@eng-easepick/datetime)
 
 
 ## DateTime() constructor

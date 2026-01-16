@@ -1,15 +1,15 @@
-# @easepick/range-plugin
+# @eng-easepick/range-plugin
 
-[![npm version](https://badge.fury.io/js/@easepick%2Frange-plugin.svg)](https://www.npmjs.com/package/@easepick/range-plugin)
+[![npm version](https://badge.fury.io/js/@easepick%2Frange-plugin.svg)](https://www.npmjs.com/package/@eng-easepick/range-plugin)
 
-> This package does not need to be installed if you are using [@easepick/bundle](https://easepick.com/packages/bundle).
+> This package does not need to be installed if you are using [@eng-easepick/bundle](https://www.npmjs.com/package/@eng-easepick/bundle).
 
 Adds the ability to select a range of dates.
 
 
 ## Documentation
 
-[https://easepick.com/packages/range-plugin](https://easepick.com/packages/range-plugin)
+[https://www.npmjs.com/package/@eng-easepick/range-plugin](https://www.npmjs.com/package/@eng-easepick/range-plugin)
 
 
 ## Options
@@ -34,5 +34,5 @@ Adds the ability to select a range of dates.
 | setDateRange(start, end) | Set date range. Should be Date Object or Unix Timestamp (with milliseconds) or String (must be equal to option format).
 | setStartDate(date) | Set start of date range. Should be Date Object or Unix Timestamp (with milliseconds) or String (must be equal to option format).
 | setEndDate(date) |  Set end of date range. Should be Date Object or Unix Timestamp (with milliseconds) or String (must be equal to option format).
-| getStartDate() | Return current start of date range as [DateTime](https://easepick.com/packages/datetime) Object.
-| getEndDate() |  Return current end of date range as [DateTime](https://easepick.com/packages/datetime) Object.
+| getStartDate() | Return current start of date range as [DateTime](https://www.npmjs.com/package/@eng-easepick/datetime) Object.
+| getEndDate() |  Return current end of date range as [DateTime](https://www.npmjs.com/package/@eng-easepick/datetime) Object.

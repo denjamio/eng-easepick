@@ -1,5 +1,5 @@
 import Calendar from './calendar';
-import { DateTime } from '@easepick/datetime';
+import { DateTime } from '@eng-easepick/datetime';
 import PluginManager from './pluginManager';
 import {
   IEventDetail,

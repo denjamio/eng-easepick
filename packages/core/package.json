@@ -1,26 +1,23 @@
 {
-  "name": "@easepick/core",
+  "name": "@eng-easepick/core",
   "description": "The core of easepick.",
-  "version": "1.2.1",
+  "version": "2.0.0",
   "main": "dist/index.umd.js",
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
   "dependencies": {
-    "@easepick/datetime": "^1.1.0"
+    "@eng-easepick/datetime": "^2.0.0"
   },
-  "author": {
-    "name": "Rinat G.",
-    "email": "easepick@jsx4.com"
-  },
-  "license": "GPL-2.0-or-later",
+  "author": "Rinat G. (forked by denjamio)",
+  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/easepick/easepick.git",
+    "url": "https://github.com/denjamio/eng-easepick.git",
     "directory": "packages/core"
   },
-  "homepage": "https://easepick.com",
+  "homepage": "https://github.com/denjamio/eng-easepick",
   "bugs": {
-    "url": "https://github.com/easepick/easepick/issues"
+    "url": "https://github.com/denjamio/eng-easepick/issues"
   },
   "files": [
     "dist"

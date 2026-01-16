@@ -1,14 +1,14 @@
-# @easepick/kbd-plugin
+# @eng-easepick/kbd-plugin
 
-[![npm version](https://badge.fury.io/js/@easepick%2Fkbd-plugin.svg)](https://www.npmjs.com/package/@easepick/kbd-plugin)
+[![npm version](https://badge.fury.io/js/@easepick%2Fkbd-plugin.svg)](https://www.npmjs.com/package/@eng-easepick/kbd-plugin)
 
-> This package does not need to be installed if you are using [@easepick/bundle](https://easepick.com/packages/bundle).
+> This package does not need to be installed if you are using [@eng-easepick/bundle](https://www.npmjs.com/package/@eng-easepick/bundle).
 
 Adds keyboard navigation.
 
 ## Documentation
 
-[https://easepick.com/packages/kbd-plugin](https://easepick.com/packages/kbd-plugin)
+[https://www.npmjs.com/package/@eng-easepick/kbd-plugin](https://www.npmjs.com/package/@eng-easepick/kbd-plugin)
 
 
 ## Options
