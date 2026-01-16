@@ -3,7 +3,7 @@ eng-easepick
 
 [![npm version](https://badge.fury.io/js/@eng-easepick%2Fbundle.svg)](https://www.npmjs.com/package/@eng-easepick/bundle)
 
-> **Fork of [easepick](https://github.com/easepick/easepick)** - MIT licensed date picker for modern browsers.
+> **Fork of [easepick](https://github.com/easepick/easepick)** - date picker for modern browsers.
 
 ## Why this fork?
 
